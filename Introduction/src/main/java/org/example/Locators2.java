@@ -40,6 +40,7 @@ public class Locators2 {
         String[] passwordArray= passwordText.split("'");
         return passwordArray[1].split("'")[0];
         //driver.close();
+        //test
 
 
 
