@@ -39,6 +39,7 @@ public class Locators2 {
         // Please use temporary password 'rahulshettyacademy' to Login.
         String[] passwordArray= passwordText.split("'");
         return passwordArray[1].split("'")[0];
+        //driver.close();
 
 
 
